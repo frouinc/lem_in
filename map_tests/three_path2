@@ -1,0 +1,18 @@
+3
+##start
+start 1 0
+path1 0 1
+path2 2 1
+path22 2 2
+path3 3 1
+path32 3 2
+##end
+end 1 2
+start-path1
+start-path2
+start-path3
+path2-path22
+path3-path32
+path1-end
+path22-end
+path32-end
